@@ -35,9 +35,6 @@ This site is intended as a **digital CV/portfolio** to present my experience and
 - Description of technical skills in Python, JavaScript, HTML and CSS  
 - Growing knowledge in databases (SQL, NoSQL) and frameworks such as Flask and NodeJS  
 - Personal interests and professional aspirations
-
-## Author
-
-Pablo Hidalgo  
+  
 LinkedIn: https://www.linkedin.com/in/pablo‑hidalgo
 
