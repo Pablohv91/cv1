@@ -39,7 +39,5 @@ This site is intended as a **digital CV/portfolio** to present my experience and
 ## Author
 
 Pablo Hidalgo  
-Aspiring Data Analyst / Data Scientist  
-GitHub: https://github.com/Pablohv91  
 LinkedIn: https://www.linkedin.com/in/pablo‑hidalgo
 
